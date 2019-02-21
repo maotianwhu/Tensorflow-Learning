@@ -4,7 +4,7 @@
 
 + [[网易云课堂]](https://study.163.com/course/introduction/1003606092.htm) 初次视频学习tensorflow的代码
 
-+ [[b站练数成金教程]](https://www.bilibili.com/video/av20542427?from=search&seid=6673995364884233622)第二次视频学习tensorflow的代码: 
++ [[b站练数成金教程]](https://www.bilibili.com/video/av20542427?from=search&seid=6673995364884233622)第二次视频学习tensorflow的代码(**持续更新中**): 
 
 	`zhulf0804/Tensorflow-Learning/tf_relearn`
 	
