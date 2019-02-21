@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/Users/zhulf/PycharmProjects/tf_learn/tf_relearn/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "/Users/zhulf/PycharmProjects/tf_learn/tf_relearn/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/zhulf/PycharmProjects/tf_learn/tf_relearn/projector/projector/a_model.ckpt-1001"
+all_model_checkpoint_paths: "/Users/zhulf/PycharmProjects/tf_learn/tf_relearn/projector/projector/a_model.ckpt-1001"
