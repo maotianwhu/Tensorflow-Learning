@@ -4,9 +4,9 @@
 
 + [[网易云课堂]](https://study.163.com/course/introduction/1003606092.htm) 初次视频学习tensorflow的代码
 
-+ [[b站练数成金教程]](https://www.bilibili.com/video/av20542427?from=search&seid=6673995364884233622)第二次视频学习tensorflow的代码(**持续更新中**): 
++ [[b站练数成金教程]](https://www.bilibili.com/video/av20542427?from=search&seid=6673995364884233622)第二次视频学习tensorflow的代码: 
 
-	`zhulf0804/Tensorflow-Learning/tf_relearn`
+	`zhulf0804/Tensorflow-Learning/tf_relearn`: 所有代码均可运行，并且达到了预期的结果.
 	
 + slim模块的简单了解
 	
