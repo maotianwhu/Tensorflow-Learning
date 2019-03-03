@@ -1,6 +1,6 @@
 本库是作者在学习tensorflow时所写的代码.
 
-#### 主要包括三部分:
+#### 主要包括四部分:
 
 + [[网易云课堂]](https://study.163.com/course/introduction/1003606092.htm) 初次视频学习tensorflow的代码
 
@@ -12,7 +12,17 @@
 	
 	`zhulf0804/Tensorflow-Learning/slim`
 
-除了`zhulf0804/Tensorflow-Learning/tf_relearn`和`zhulf0804/Tensorflow-Learning/slim`，其他代码均为在网易云课堂上学习时练习的代码。
++ 实战练习tensorflow
+
+    `zhulf0804/Tensorflow-Learning/tf_practice`
+
+除了
+
++ zhulf0804/Tensorflow-Learning/tf_relearn
++ zhulf0804/Tensorflow-Learning/slim
++ zhulf0804/Tensorflow-Learning/tf_practice
+
+其他代码均为在网易云课堂上学习时练习的代码。
 
 
 slim模块是参考博客:
